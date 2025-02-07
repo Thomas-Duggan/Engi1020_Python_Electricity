@@ -7,10 +7,10 @@ The number of kWh inputs are also mulitpled by a predetermined value and added t
 
 ## Issues
 
-- Has many predetermined values that could be user-inputted
-- Code is excessively large
-- Only works in 2025
-- User can input negative numbers for energy usage
+- Has many predetermined values that could be user-inputted.
+- Code is excessively large.
+- Only works in 2025.
+- User can input negative numbers for energy usage.
 
 
 ## Copyright
