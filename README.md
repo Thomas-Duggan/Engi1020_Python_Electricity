@@ -13,6 +13,11 @@ The number of kWh inputs are also mulitpled by a predetermined value and added t
 - User can input negative numbers for energy usage.
 
 
+## Created for
+
+Engineering 1020: Intro to Programming assignment, Memorial University
+
+
 ## Copyright
 
 [Creative Commons Attribution-ShareAlike 4.0 International Public
